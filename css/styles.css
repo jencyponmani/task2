@@ -1,0 +1,46 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.pen{ border:1px solid black;
+      width:450px;
+}
+.image{
+	
+}
+.moon{
+	margin-left: 20px;
+	padding:6px;
+	display:flex;
+}
+.moon p{
+	margin-left:280px;
+}
+button{
+		background-color:lightgreen;
+
+}
+.ligh{
+	margin-left:20px;
+	}
+.rub img{
+	border-radius:50%;
+    height:50px;
+    width:50px;
+
+}
+.rub{
+	display:flex;
+	margin:15px;
+}
+.rub p{
+	margin:15px;
+}
+.rub {
+	display:flex;
+}
+.rub i{
+	margin-left:210px;
+	margin-top:10px;
+} 
